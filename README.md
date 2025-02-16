@@ -1,6 +1,6 @@
 # 🎥 CloudOps Guild: Series de Videos Técnicos sobre Cloud, AWS, DevOps y SRE
 
-![cloudops-guild](imagenes/series_technical_videos.png
+![cloudops-guild](imagenes/series_technical_videos.png)
 
 ## 📝 Descripción del Repositorio
 
