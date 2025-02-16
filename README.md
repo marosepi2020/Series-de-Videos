@@ -1,6 +1,6 @@
 # 🎥 CloudOps Guild: Series de Videos Técnicos sobre Cloud, AWS, DevOps y SRE
 
-![cloudops-guild](imagenes/cloudops_series.png)
+![cloudops-guild](imagenes/series_technical_videos.png
 
 ## 📝 Descripción del Repositorio
 
@@ -20,7 +20,7 @@ Este repositorio te permitirá acceder a múltiples series de videos donde mejor
 
 ### 🆕 1️⃣ **Domina las Conexiones SSH a EC2: De Novato a Experto** 🔐
 📍 Aprende todos los métodos esenciales para conectarte a instancias EC2 en AWS, desde Instance Connect hasta configuraciones avanzadas de seguridad.  
-📺 **[Accede a la serie completa](URL_SERIE_EC2_SSH)**
+📺 **[Accede a la serie completa](https://youtube.com/playlist?list=PLqv_IB8VVqODk_iZHqB__OZIgDCN9WCtu&si=GeR3tGvFG8sZ5d5X)**
 
 ### 🛠️ 2️⃣ **Próximas Series (¡Muy Pronto!)**
 - **Introducción a AWS para Principiantes** 🌍
@@ -47,7 +47,7 @@ Este repositorio te permitirá acceder a múltiples series de videos donde mejor
 ## 📚 Recursos Adicionales
 
 - 📖 [Documentación oficial de AWS](https://docs.aws.amazon.com/)
-- 🎥 [Playlist completa en YouTube](URL_YOUTUBE)
+- 🎥 [Playlist completa en YouTube](https://www.youtube.com/@CloudOpsGuildCommunity)
 - 📝 [Guía de Buenas Prácticas en DevOps y SRE](URL_BLOG)
 
 ---
