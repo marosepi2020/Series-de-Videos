@@ -60,7 +60,9 @@ Con esta serie, aprenderás a conectarte a tus instancias EC2 de múltiples mane
 
 ![Practices](imagenes/Secure_Your_SSHConnection_%20Best%20Practices.png)
 
-[Video]
+**[Video_Parte1](https://youtu.be/wD-QL2kuC_c)**
+
+**[Video_Parte2](https://youtu.be/kR9FkE2fyZA)**
 
 ### 🛠️ 7. Resolución de Problemas Comunes
 - 📍 Solución a errores típicos como permisos denegados, configuraciones incorrectas en **Security Groups**, errores de **timeout**, etc.
