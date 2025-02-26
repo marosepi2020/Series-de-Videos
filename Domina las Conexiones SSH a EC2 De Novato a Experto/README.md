@@ -69,7 +69,9 @@ Con esta serie, aprenderás a conectarte a tus instancias EC2 de múltiples mane
 
 ![troubleshooting](imagenes/Troubleshoot_EC2_Connection_Issues.png)
 
-[Video]
+**[Video_Parte1](https://youtu.be/KTZF5sk8z_s)**
+
+**[Video_Parte2](https://youtu.be/x3Hx-rpl30w)**
 
 ---
 
