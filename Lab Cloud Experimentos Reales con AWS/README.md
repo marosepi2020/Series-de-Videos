@@ -6,6 +6,8 @@
 
 Aquí encontrarás una colección de laboratorios prácticos diseñados para aprender haciendo en el mundo de AWS. Cada experimento está enfocado en resolver un reto real usando servicios de la nube. 🌩️🧪
 
+📺 **[Accede a la serie completa](https://www.youtube.com/playlist?list=PLqv_IB8VVqOBWHHHWPlvWIit8pZW9TLny)** 
+
 ---
 
 ## 🎯 Propósito de la serie
