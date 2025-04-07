@@ -16,18 +16,18 @@ Este repositorio te permitirá acceder a múltiples series de videos donde mejor
 
 ---
 
-## 📌 Series de Videos Disponibles
+## 📌 📺 Series de Videos Disponibles
 
 ### 🆕 1️⃣ **Domina las Conexiones SSH a EC2: De Novato a Experto** 🔐
 📍 Aprende todos los métodos esenciales para conectarte a instancias EC2 en AWS, desde Instance Connect hasta configuraciones avanzadas de seguridad.  
-📺 **[Accede a la serie completa](https://youtube.com/playlist?list=PLqv_IB8VVqODk_iZHqB__OZIgDCN9WCtu&si=GeR3tGvFG8sZ5d5X)**
+🔗 **[Accede a la serie completa](https://github.com/marosepi2020/Series-de-Videos/tree/5abe719426b95d83610c18445bb2e28f421ba11b/Domina%20las%20Conexiones%20SSH%20a%20EC2%20De%20Novato%20a%20Experto)**
 
 ### 🆕 2️⃣ **Lab Cloud: Experimentos Reales con AWS** 🔐
 📍 Implementar laboratorios prácticos para aprender haciendo.
 
 Cada laboratorio está diseñado para ser práctico, fácil de seguir y directamente aplicable en escenarios reales. Aquí tienes los guiones y materiales para los cinco videos:
 
-📺 **[Accede a la serie completa](https://www.youtube.com/@CloudOpsGuildCommunity)**
+🔗 **[Accede a la serie completa](https://github.com/marosepi2020/Series-de-Videos/tree/5abe719426b95d83610c18445bb2e28f421ba11b/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS)**
 
 ### 🛠️ 3️⃣**Próximas Series (¡Muy Pronto!)**
 - **Introducción a AWS para Principiantes** 🌍
