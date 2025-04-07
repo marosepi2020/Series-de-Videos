@@ -22,7 +22,14 @@ Este repositorio te permitirá acceder a múltiples series de videos donde mejor
 📍 Aprende todos los métodos esenciales para conectarte a instancias EC2 en AWS, desde Instance Connect hasta configuraciones avanzadas de seguridad.  
 📺 **[Accede a la serie completa](https://youtube.com/playlist?list=PLqv_IB8VVqODk_iZHqB__OZIgDCN9WCtu&si=GeR3tGvFG8sZ5d5X)**
 
-### 🛠️ 2️⃣ **Próximas Series (¡Muy Pronto!)**
+### 🆕 2️⃣ **Lab Cloud: Experimentos Reales con AWS** 🔐
+📍 Implementar laboratorios prácticos para aprender haciendo.
+
+Cada laboratorio está diseñado para ser práctico, fácil de seguir y directamente aplicable en escenarios reales. Aquí tienes los guiones y materiales para los cinco videos:
+
+📺 **[Accede a la serie completa](https://www.youtube.com/@CloudOpsGuildCommunity)**
+
+### 🛠️ 3️⃣**Próximas Series (¡Muy Pronto!)**
 - **Introducción a AWS para Principiantes** 🌍
 - **Infraestructura como Código con Terraform** 🏗️
 - **Automatización con Ansible y AWS Lambda** ⚙️

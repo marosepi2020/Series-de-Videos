@@ -1,6 +1,9 @@
 # ⚗️ Lab Cloud: Experimentos Reales con AWS
 
 ¡Bienvenido a la serie **Lab Cloud**!  
+
+![LabCloud](imagenes/Lab_cloud_experimentos_reales.png)
+
 Aquí encontrarás una colección de laboratorios prácticos diseñados para aprender haciendo en el mundo de AWS. Cada experimento está enfocado en resolver un reto real usando servicios de la nube. 🌩️🧪
 
 ---
