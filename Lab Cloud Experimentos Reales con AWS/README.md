@@ -22,60 +22,92 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 ### 🟢 Nivel Básico
 
 - **Despliega Tu Primera Web Estática con Amazon S3**  
-  🎯 Aprende a almacenar y servir archivos estáticos desde un bucket.  
+  🎯 Aprende a almacenar y servir archivos estáticos desde un bucket. 
+
+  🔗 **[Video]()** 
 
 - **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**  
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
 
+  🔗 **[Video]()**
+
 - **Protege Tu Infraestructura con Grupos de Seguridad**  
-  🎯 Configura reglas para controlar tráfico entrante y saliente en EC2.  
+  🎯 Configura reglas para controlar tráfico entrante y saliente en EC2. 
+
+  🔗 **[Video]()** 
 
 - **Sube y Comparte Archivos con S3 + Pre-signed URLs**  
   🎯 Comparte archivos de forma segura con URLs temporales.  
 
+  🔗 **[Video]()**
+
 - **Tu Primer Bucket S3 con Políticas de Acceso Personalizadas**  
-  🎯 Restringe quién puede leer o escribir en tu bucket.  
+  🎯 Restringe quién puede leer o escribir en tu bucket. 
+
+  🔗 **[Video]()** 
 
 ---
 
 ### 🟡 Nivel Intermedio
 
 - **Automatiza Tareas con AWS Lambda + EventBridge**  
-  🎯 Ejecuta funciones automáticamente ante eventos programados.  
+  🎯 Ejecuta funciones automáticamente ante eventos programados. 
+
+  🔗 **[Video]()** 
 
 - **Accede a EC2 sin SSH usando SSM Session Manager**  
   🎯 Conéctate a instancias sin usar claves ni abrir puertos.  
 
+  🔗 **[Video]()**
+
 - **Auto Scaling Groups + ELB**  
   🎯 Lanza y escala aplicaciones automáticamente.  
+
+  🔗 **[Video]()**
 
 - **Almacena y Consulta Datos con Amazon DynamoDB**  
   🎯 Crea una base de datos NoSQL y aprende a interactuar con ella.  
 
+  🔗 **[Video]()**
+
 - **Crea un API RESTful sin servidores (API Gateway + Lambda)**  
   🎯 Diseña una API completamente serverless.  
+
+  🔗 **[Video]()**
 
 - **Centraliza Logs y Monitorea con CloudWatch**  
   🎯 Habilita métricas, logs y alarmas.  
 
+  🔗 **[Video]()**
+
 - **Agrega Autenticación con Amazon Cognito**  
   🎯 Integra un sistema de autenticación de usuarios.  
 
+  🔗 **[Video]()**
+
 - **Automatiza Backups con AWS Backup**  
   🎯 Configura respaldos automáticos para EC2 y otros recursos.  
+
+  🔗 **[Video]()**
 
 ---
 
 ### 🔴 Nivel Avanzado
 
 - **Despliega Infraestructura como Código con CloudFormation**  
-  🎯 Usa plantillas YAML para desplegar recursos automáticamente.  
+  🎯 Usa plantillas YAML para desplegar recursos automáticamente. 
+
+  🔗 **[Video]()** 
 
 - **Configura una Red Privada con VPC, NAT Gateway y Subredes**  
   🎯 Diseña una red aislada y segura.  
 
+  🔗 **[Video]()**
+
 - **Orquesta Tareas Serverless con Step Functions + Lambda**  
   🎯 Crea flujos de trabajo coordinando múltiples funciones.  
+
+  🔗 **[Video]()**
 
 ---
 
