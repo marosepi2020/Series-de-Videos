@@ -24,7 +24,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 - **Despliega Tu Primera Web Estática con Amazon S3**  
   🎯 Aprende a almacenar y servir archivos estáticos desde un bucket. 
 
-  🔗 **[Video]()** 
+  🔗 [Video](https://www.youtube.com/playlist?list=PLqv_IB8VVqOBWHHHWPlvWIit8pZW9TLny)
 
 - **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**  
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
