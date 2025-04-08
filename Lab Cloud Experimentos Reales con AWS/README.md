@@ -6,7 +6,9 @@
 
 Aquí encontrarás una colección de laboratorios prácticos diseñados para aprender haciendo en el mundo de AWS. Cada experimento está enfocado en resolver un reto real usando servicios de la nube. 🌩️🧪
 
-🔗 **[Accede a la serie completa](https://www.youtube.com/playlist?list=PLqv_IB8VVqOBWHHHWPlvWIit8pZW9TLny)** 
+🔗 **[Accede a la serie completa](https://www.youtube.com/playlist?list=PLqv_IB8VVqOBWHHHWPlvWIit8pZW9TLny)**
+
+🔗 **[Video introductorio](https://youtu.be/cs9YmVw8jcA)**
 
 ---
 
@@ -24,7 +26,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 - **Despliega Tu Primera Web Estática con Amazon S3**  
   🎯 Aprende a almacenar y servir archivos estáticos desde un bucket. 
 
-  🔗 [Video](https://www.youtube.com/playlist?list=PLqv_IB8VVqOBWHHHWPlvWIit8pZW9TLny)
+  🔗 **[Video]()**
 
 - **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**  
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
@@ -73,7 +75,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 - **Crea un API RESTful sin servidores (API Gateway + Lambda)**  
   🎯 Diseña una API completamente serverless.  
 
-  🔗 **[Video]()**
+  🔗 **[Próximo Video será publicado el 9 de Abril]()**
 
 - **Centraliza Logs y Monitorea con CloudWatch**  
   🎯 Habilita métricas, logs y alarmas.  
