@@ -27,7 +27,7 @@ Este repositorio te permitirá acceder a múltiples series de videos donde mejor
 
 Cada laboratorio está diseñado para ser práctico, fácil de seguir y directamente aplicable en escenarios reales. Aquí tienes los guiones y materiales para los cinco videos:
 
-🔗 **[Accede a la serie completa](https://github.com/marosepi2020/Series-de-Videos/tree/5abe719426b95d83610c18445bb2e28f421ba11b/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS)**
+🔗 **[Accede a la serie completa](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS)**
 
 ### 🛠️ 3️⃣**Próximas Series (¡Muy Pronto!)**
 - **Introducción a AWS para Principiantes** 🌍
