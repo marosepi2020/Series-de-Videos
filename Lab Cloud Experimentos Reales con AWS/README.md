@@ -10,6 +10,8 @@ Aquí encontrarás una colección de laboratorios prácticos diseñados para apr
 
 🔗 **[Video introductorio](https://youtu.be/cs9YmVw8jcA)**
 
+🔗 **[Video introductorio](https://youtu.be/cs9YmVw8jcA)**
+
 ---
 
 ## 🎯 Propósito de la serie
