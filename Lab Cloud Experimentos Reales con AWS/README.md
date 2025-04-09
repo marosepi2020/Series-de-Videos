@@ -75,7 +75,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 - **Crea un API RESTful sin servidores (API Gateway + Lambda)**  
   🎯 Diseña una API completamente serverless.  
 
-  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/7d1f5c225a139169c15368a3035b665a920976e7/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
+  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/7a20f470708893956a60b82169fe4f9ab3c1be0e/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
 
 - **Centraliza Logs y Monitorea con CloudWatch**  
   🎯 Habilita métricas, logs y alarmas.  
