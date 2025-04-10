@@ -6,8 +6,8 @@ En esta serie de tres partes, construirás paso a paso una API RESTful sin servi
 
 ---
 
-🧪 Escenario real: CloudFizz es una startup que quiere lanzar una app de reseñas de cafeterías locales. Necesitan una API para que los usuarios puedan crear reseñas, pero no quieren manejar servidores, ni infraestructura.
- La solución ideal: una API serverless con AWS API Gateway + AWS Lambda.
+🧪 **Escenario real: CloudFizz** es una startup que quiere lanzar una app de reseñas de cafeterías locales. Necesitan una API para que los usuarios puedan crear reseñas, pero no quieren manejar servidores, ni infraestructura.
+ **La solución ideal:** una API serverless con AWS API Gateway + AWS Lambda + DynamoDB.
 
  ---
 
@@ -20,11 +20,11 @@ En esta serie de tres partes, construirás paso a paso una API RESTful sin servi
 ## 📚 **Conceptos básicos**
 
 🤔 **¿Qué es una API RESTful serverless?**
-Una API RESTful sin servidores permite manejar peticiones HTTP (como POST, GET, etc.) sin tener que configurar ni mantener servidores. Usamos:
+Una **API RESTful** sin servidores permite manejar peticiones HTTP (como POST, GET, etc.) sin tener que configurar ni mantener servidores. Usamos:
 
-API Gateway: Recibe y enruta las peticiones HTTP
+**API Gateway:** Recibe y enruta las peticiones HTTP
 
-Lambda: Ejecuta el código que responde a esas peticiones
+**Lambda:** Ejecuta el código que responde a esas peticiones
 
 Esto significa escalabilidad automática, bajo costo y simplicidad.
 
@@ -36,7 +36,9 @@ Una **API RESTful** te permite que dos aplicaciones (por ejemplo, un sitio web y
 Un **API Gateway** es un servicio que actúa como puerta de entrada entre los clientes (como apps web, móviles, etc.) y los servicios backend (como funciones Lambda, microservicios, bases de datos, etc.).
 
 En otras palabras:
+
 Es como un portero inteligente que recibe todas las solicitudes externas a tu aplicación y decide:
+
 A dónde enviarlas
 
 Cómo procesarlas
@@ -113,7 +115,7 @@ Al finalizar este laboratorio, serás capaz de diseñar, desplegar y probar una 
 
 
 📺 **[Ver video de la Parte 1 →](https://youtu.be/-cbeZ6laFRE)**  
-📄 Código y configuración → incluidos en el paso a paso **[aquí →](/recursos/APIRESTful_serverless_Parte1.pdf)** 
+📄 Código y configuración → incluidos en el paso a paso **[aquí →](./recursos/APIRESTful_serverless_Parte1.pdf)** 
 
 ➡️ En la **Parte 2** conectaremos esta API con DynamoDB para guardar las reseñas.
 
@@ -134,7 +136,7 @@ Al finalizar este laboratorio, serás capaz de diseñar, desplegar y probar una 
 ⚠️ Se incluye control de errores y buenas prácticas para entornos reales.
 
 📺 **[Ver video de la Parte 2 →](https://youtu.be/01WQ5622YaU)** 
-📄 Código Lambda actualizado incluido en el recurso del laboratorio **[aquí →](/recursos/APIRESTful_serverless_Parte2.pdf)**
+📄 Código Lambda actualizado incluido en el recurso del laboratorio **[aquí →](./recursos/APIRESTful_serverless_Parte2.pdf)**
 
 ➡️ En la **Parte 3**, crearemos un frontend HTML para enviar reseñas directamente desde el navegador.
 
@@ -156,7 +158,7 @@ Al finalizar este laboratorio, serás capaz de diseñar, desplegar y probar una 
 🧠 Solo debes reemplazar la URL de tu endpoint API en el script.
 
 📺 **[Ver video de la Parte 3 →](https://youtu.be/vTXzrKhdhiA)** 
-📄 Código completo del `index.html` incluido **[aquí →](/recursos/APIRESTful_serverless_Parte3.pdf)**
+📄 Código completo del `index.html` incluido **[aquí →](./recursos/APIRESTful_serverless_Parte3.pdf)**
 
 ---
 
@@ -171,7 +173,7 @@ Al finalizar este laboratorio, serás capaz de diseñar, desplegar y probar una 
 
 ## 🚀 ¿Qué puedes hacer luego?
 
-- Agregar endpoints GET, DELETE y PUT a tu API  
+- Agregar endpoints **GET**, **DELETE** y **PUT** a tu API  
 - Conectar con una app móvil o SPA (React, Vue, etc.)  
 - Subir el frontend a S3 como sitio estático  
 - Integrar Amazon Cognito para autenticar usuarios  
