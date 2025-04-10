@@ -1,6 +1,6 @@
 # 🌐 Lab Cloud – Crea una API RESTful sin Servidores con AWS API Gateway + Lambda
 
-![LabCloud](/imagenes/ImagenAPI_Restful_Serverless.png)
+![LabCloud](./imagenes/ImagenAPI_Restful_Serverless.png)
 
 En esta serie de tres partes, construirás paso a paso una API RESTful sin servidores, conectada a una base de datos DynamoDB, y con una interfaz web en HTML para consumirla. ¡Todo en AWS y sin manejar servidores!
 
@@ -14,7 +14,7 @@ En esta serie de tres partes, construirás paso a paso una API RESTful sin servi
 ### 🗂️ Diagrama de arquitectura del laboratorio
 - 📍 Creación paso a paso del diagrama y explicación en video abajo en Recursos.
 
-![diagrama](/imagenes/arquitectura_API_Restful_Serverless.PNG)
+![diagrama](./imagenes/arquitectura_API_Restful_Serverless.PNG)
 
 
 ## 📚 **Conceptos básicos**
