@@ -48,19 +48,30 @@ Si están permitidas
 Si deben ser transformadas o autenticadas
 
 **¿Qué puede hacer un API Gateway?**
+
  ✅ Redirige peticiones al backend correcto
+
  ✅ Aplica autenticación/autorización (por ejemplo, con tokens JWT)
+
  ✅ Limita el número de peticiones por usuario (rate limiting)
+
  ✅ Agrega caché para respuestas comunes
+
  ✅ Convierte protocolos (por ejemplo, de REST a WebSocket o gRPC)
+
  ✅ Maneja errores y respuestas uniformes
 
 
 ✨ **Características principales**
+
  ✅ No necesitas administrar servidores
+
  ✅ Escala automáticamente
+
  ✅ Bajo costo: solo pagas por uso
+
  ✅ Integración nativa con otros servicios de AWS
+ 
  ✅ Ideal para prototipos, microservicios y aplicaciones reales
 
 **cURL** es una herramienta de línea de comandos que permite transferir datos entre un servidor y un cliente. Es de código abierto y está disponible en la mayoría de los sistemas operativos.
