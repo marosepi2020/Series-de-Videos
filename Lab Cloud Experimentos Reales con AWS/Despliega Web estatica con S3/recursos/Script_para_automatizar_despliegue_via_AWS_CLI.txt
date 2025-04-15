@@ -1,0 +1,20 @@
+Script para automatizar los cambios en tu página web
+Guarda esto como deploy.sh
+No olvides darle permisos de ejecución: chmod +x deploy.sh
+
+----------------------------------------------------
+#!/bin/bash
+
+BUCKET_NAME="Nombre_de_tu_Bucket"
+LOCAL_FOLDER="./sitio-web"
+
+echo "🚀 Subiendo archivos a S3..."
+aws s3 sync $LOCAL_FOLDER s3://$BUCKET_NAME --acl public-read --delete
+
+echo "✅ Sitio web desplegado en S3: https://$BUCKET_NAME.s3-website-<REGION>.amazonaws.com"
+-----------------------------------------------------
+
+
+Si necesitas el paso a paso para implementar no dudes en escribirme y te lo envio.
+
+
