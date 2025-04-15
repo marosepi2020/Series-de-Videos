@@ -11,6 +11,7 @@ Este laboratorio es ideal para quienes están comenzando en el mundo cloud. Apre
 Enseñar cómo **almacenar y servir archivos estáticos** (HTML, CSS, JS, imágenes, etc.) directamente desde un bucket de Amazon S3 configurado como sitio web.
 
 🧠 **Nivel:** Básico
+
 🔄 **Duración** 15 min
 
 ---
@@ -19,13 +20,25 @@ Enseñar cómo **almacenar y servir archivos estáticos** (HTML, CSS, JS, imáge
 
 - 🔹 **Amazon S3**
 - 🔹 **IAM (opcional para permisos personalizados)**
-- 🔹 **Route 53** (opcional para dominio personalizado)
+- 🔹 **Route 53 (opcional para dominio personalizado)**
+
+---
+
+🧪 **Escenario real: GreenBite**, un emprendimiento que promueve recetas veganas y consejos de cocina saludable, quiere publicar su sitio web para compartir contenido con su comunidad. No tienen conocimientos técnicos ni quieren pagar un servidor.
+
+ **La solución ideal:** Amazon S3 para el hosting.
 
 ---
 
 ## 📦 ¿Qué vamos a construir?
 
 Publicaremos un sitio estático que podría incluir una página HTML básica con imágenes o estilos, y lo haremos accesible públicamente desde Internet.
+
+---
+
+## 📦 Diagrama de arquitectura
+
+![Imagen de arquitectura](./imagenes/diagrama_arquitectura.PNG)**
 
 ---
 
