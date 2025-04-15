@@ -123,6 +123,13 @@ Guarda los cambios.
 
 ---
 
+## 🚀 ¿Qué puedes hacer luego?
+
+- Utilizar **AWS Cloudfront** para que cargue super rápido desde cualquier parte del mundo  
+- Utilizar **Route 53** para usar tu dominio personalizado y no la URL generica dada por S3. 
+
+---
+
 ## 📢 Síguenos y únete a la comunidad
 
 - **YouTube:** [CloudOps Guild](https://www.youtube.com/@CloudOpsGuildCommunity)  
@@ -140,4 +147,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-🌐 ¡Felicidades por publicar tu primera web en la nube con Amazon S3!
+🌐 **¡Felicidades por publicar tu primera web en la nube con Amazon S3!**
