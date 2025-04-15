@@ -26,90 +26,90 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 - **Despliega Tu Primera Web Estática con Amazon S3**  
   🎯 Aprende a almacenar y servir archivos estáticos desde un bucket. 
 
-  🔗 **[Video]()**
+  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Despliega%20Web%20estatica%20con%20S3/README.md)**
 
-- **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**  
+- Crea un Servidor Web con Amazon EC2 y Apache/Nginx 
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Protege Tu Infraestructura con Grupos de Seguridad**  
+- Protege Tu Infraestructura con Grupos de Seguridad  
   🎯 Configura reglas para controlar tráfico entrante y saliente en EC2. 
 
-  🔗 **[Video]()** 
+  🔗 [Video]()
 
-- **Sube y Comparte Archivos con S3 + Pre-signed URLs**  
+- Sube y Comparte Archivos con S3 + Pre-signed URLs  
   🎯 Comparte archivos de forma segura con URLs temporales.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Tu Primer Bucket S3 con Políticas de Acceso Personalizadas**  
+- Tu Primer Bucket S3 con Políticas de Acceso Personalizadas  
   🎯 Restringe quién puede leer o escribir en tu bucket. 
 
-  🔗 **[Video]()** 
+  🔗 [Video]()
 
 ---
 
 ### 🟡 Nivel Intermedio
 
-- **Automatiza Tareas con AWS Lambda + EventBridge**  
+- Automatiza Tareas con AWS Lambda + EventBridge  
   🎯 Ejecuta funciones automáticamente ante eventos programados. 
 
-  🔗 **[Video]()** 
+  🔗 [Video]()
 
-- **Accede a EC2 sin SSH usando SSM Session Manager**  
+- Accede a EC2 sin SSH usando SSM Session Manager 
   🎯 Conéctate a instancias sin usar claves ni abrir puertos.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
 - **Auto Scaling Groups + ELB**  
   🎯 Lanza y escala aplicaciones automáticamente.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Almacena y Consulta Datos con Amazon DynamoDB**  
+- Almacena y Consulta Datos con Amazon DynamoDB 
   🎯 Crea una base de datos NoSQL y aprende a interactuar con ella.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
 - **Crea un API RESTful sin servidores (API Gateway + Lambda)**  
   🎯 Diseña una API completamente serverless.  
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
 
-- **Centraliza Logs y Monitorea con CloudWatch**  
+- Centraliza Logs y Monitorea con CloudWatch
   🎯 Habilita métricas, logs y alarmas.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Agrega Autenticación con Amazon Cognito**  
+- Agrega Autenticación con Amazon Cognito 
   🎯 Integra un sistema de autenticación de usuarios.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Automatiza Backups con AWS Backup**  
+- Automatiza Backups con AWS Backup 
   🎯 Configura respaldos automáticos para EC2 y otros recursos.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
 ---
 
 ### 🔴 Nivel Avanzado
 
-- **Despliega Infraestructura como Código con CloudFormation**  
+- Despliega Infraestructura como Código con CloudFormation
   🎯 Usa plantillas YAML para desplegar recursos automáticamente. 
 
-  🔗 **[Video]()** 
+  🔗 [Video]()
 
-- **Configura una Red Privada con VPC, NAT Gateway y Subredes**  
+- Configura una Red Privada con VPC, NAT Gateway y Subredes 
   🎯 Diseña una red aislada y segura.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
-- **Orquesta Tareas Serverless con Step Functions + Lambda**  
+- Orquesta Tareas Serverless con Step Functions + Lambda  
   🎯 Crea flujos de trabajo coordinando múltiples funciones.  
 
-  🔗 **[Video]()**
+  🔗 [Video]()
 
 ---
 
