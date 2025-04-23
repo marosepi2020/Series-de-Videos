@@ -7,7 +7,7 @@ Aprender a lanzar una instancia EC2, conectarse mediante SSH, instalar un servid
 
 🧠 **Nivel:** Básico  
 ⏱️ **Duración estimada:** 40–60 minutos  
-💰 **Costo estimado:** Bajo (usa el nivel gratuito con `t2.micro` o `t3.micro`)
+💰 **Costo estimado:** Bajo (usa el nivel gratuito con **`t2.micro`** o **`t3.micro`**)
 
 ---
 
@@ -46,7 +46,7 @@ Aprender a lanzar una instancia EC2, conectarse mediante SSH, instalar un servid
 
 ### 🔹 2️⃣ Conectarse por SSH
 
-#### 🅰️ Desde Mac/Linux
+#### 🅰️ Desde Mac/Linux [Video](https://youtu.be/xuFcYQM3o9I)
 
 ```bash
 chmod 400 ServidorWeb-GreenBite.pem
@@ -56,7 +56,7 @@ ssh -i ServidorWeb-GreenBite.pem ec2-user@<IP_PUBLICA>
 > Si el archivo `.pem` está en otra ruta, usa la ruta completa:  
 > `ssh -i /ruta/a/ServidorWeb-GreenBite.pem ec2-user@<IP_PUBLICA>`
 
-#### 🅱️ Desde Windows
+#### 🅱️ Desde Windows [Video](https://youtu.be/mpJgbS9vbJA)
 
 1. Usa **PuTTYgen** para convertir `.pem` a `.ppk`
 2. Abre **PuTTY** y configura:
@@ -162,6 +162,7 @@ sudo systemctl restart httpd
 **1. Scripts para apache y Ngnix de instalación servidor web**  
 **2. Código HTML del frontend demo**  
 **3. Video tutorial paso a paso** [Aquí](https://youtu.be/Ys72Gu2i7d8)
+
 **4. Comandos para copiar archivos desde maquina local a instancia linux en AWS**
 
 ---
@@ -183,7 +184,6 @@ Forma parte de nuestra comunidad **CloudOps Guild** y sigue aprendiendo con labo
 
 ¡Nos vemos en el próximo laboratorio de la serie  
 **Lab Cloud: Experimentos Reales con AWS**! 🚀
-```
 
 ## 📝 Licencia
 
