@@ -161,8 +161,7 @@ sudo systemctl restart httpd
 
 **1. Scripts para apache y Ngnix de instalación servidor web**  
 **2. Código HTML del frontend demo**  
-**3. Video tutorial paso a paso** [Aquí](https://youtu.be/Ys72Gu2i7d8)
-
+**3. Video tutorial paso a paso ->** **[Aquí](https://youtu.be/Ys72Gu2i7d8)**
 **4. Comandos para copiar archivos desde maquina local a instancia linux en AWS**
 
 ---
