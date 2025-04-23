@@ -28,10 +28,10 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Despliega%20Web%20estatica%20con%20S3/README.md)**
 
-- Crea un Servidor Web con Amazon EC2 y Apache/Nginx 
+- **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
 
-  🔗 [Video]()
+  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20servidor%20web%20con%20EC2%20y%20Apache)**
 
 - Protege Tu Infraestructura con Grupos de Seguridad  
   🎯 Configura reglas para controlar tráfico entrante y saliente en EC2. 
@@ -62,7 +62,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
-- **Auto Scaling Groups + ELB**  
+- Auto Scaling Groups + ELB  
   🎯 Lanza y escala aplicaciones automáticamente.  
 
   🔗 [Video]()
