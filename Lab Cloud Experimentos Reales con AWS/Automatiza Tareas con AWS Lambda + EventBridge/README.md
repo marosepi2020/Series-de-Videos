@@ -2,12 +2,12 @@
 
 ![Banner](./imagenes/Automatiza_Tareas_AWSLambda_EventBridge.png)
 
-🎯*Objetivo:* Crear funciones Lambda que se ejecuten automáticamente ante eventos programados (por ejemplo: todos los días a cierta hora).
+🎯**Objetivo:** Crear funciones Lambda que se ejecuten automáticamente ante eventos programados (por ejemplo: todos los días a cierta hora).
 
-🧠*Nivel:* Intermedio (ideal para personas que están aprendiendo a automatizar tareas en la nube)
+🧠**Nivel:** Intermedio (ideal para personas que están aprendiendo a automatizar tareas en la nube)
 
-⏱️*Duración estimada:* 45–60 minutos    
-💰*Costo:* Bajo (entra en el nivel gratuito si usas Lambda y EventBridge con uso básico)
+⏱️**Duración estimada:** 45–60 minutos    
+💰**Costo:** Bajo (entra en el nivel gratuito si usas Lambda y EventBridge con uso básico)
 
 ---
 
@@ -15,7 +15,7 @@
 
 - 🧪 Escenario del mundo real 
 - 🗂️ Diagrama de arquitectura del laboratorio   
-- 🤔 ¿Qué es AWS Lambda \+ EventBridge?    
+- 🤔 ¿Qué es AWS Lambda + EventBridge?    
 - ✨ Características principales    
 - 🛠️ Paso a paso: Automatiza tareas con Lambda \+ EventBridge    
   - Paso 1: Requisitos previos    
@@ -81,24 +81,24 @@ Imagina que trabajas para una organización sin fines de lucro que necesita envi
 2. Haz clic en **Crear función**    
 3. Configura:  
    - ⚙️ Autor desde cero    
-   - ✍️ Nombre: \`tareaAutomaticaDiaria\`    
+   - ✍️ Nombre: `tareaAutomaticaDiaria`    
    - 🐍 Runtime: Python 3.13    
-4. Haz clic en \*\*Crear función\*\*    
+4. Haz clic en **Crear función**    
 5. Reemplaza el código por el siguiente:
 
 ```python  
 import json  
 from datetime import datetime
 
-def lambda\_handler(event, context):  
-    ahora \= datetime.now().strftime("%Y-%m-%d %H:%M:%S")  
-    mensaje \= f"Tarea automática ejecutada exitosamente a las {ahora}."
+def lambda_handler(event, context):  
+    ahora = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  
+    mensaje = f"Tarea automática ejecutada exitosamente a las {ahora}."
 
     print(mensaje)
 
     return {  
         'statusCode': 200,  
-        'body': json.dumps({'mensaje': mensaje}, ensure\_ascii=False)  
+        'body': json.dumps({'mensaje': mensaje}, ensure_ascii=False)  
     }
 ```
 
@@ -110,7 +110,7 @@ def lambda\_handler(event, context):
 
 1. Ve a **Amazon EventBridge**
 
-2. Clic en **Reglas \> Crear regla**
+2. Clic en **Reglas > Crear regla**
 
 3. Nombre: `tareaDiaria9am`
 
@@ -149,7 +149,7 @@ cron(0 9 * * ? *)
 
 Tarea automática ejecutada exitosamente a las 2025-04-04 09:00:00.
 
-🎉 ¡Automatización completada exitosamente\!
+🎉 ¡Automatización completada exitosamente!
 
 ---
 
@@ -184,7 +184,7 @@ Tarea automática ejecutada exitosamente a las 2025-04-04 09:00:00.
 ## **🔑 Conclusiones y próximos pasos**
 
 ✔ Automatizaste una tarea sin usar servidores  
-✔ Usaste Lambda \+ EventBridge como una solución elegante y escalable  
+✔ Usaste Lambda + EventBridge como una solución elegante y escalable  
 ✔ Reforzaste tus habilidades con programación de tareas en la nube
 
 ---
@@ -204,11 +204,13 @@ Tarea automática ejecutada exitosamente a las 2025-04-04 09:00:00.
 ## 📚 Recursos del laboratorio
 
 **1. Código Lambda**  
+
 **2. Video tutorial paso a paso [aquí](https://youtu.be/b1Sz22Umc8Q)**
+
 **3. Expresiones cron útiles**
 
 ---
 
 📣 ¿Te gustó este laboratorio?  
- Comparte tu resultado usando **\#LabCloudAWS** y etiqueta a la comunidad 🚀
+ Comparte tu resultado usando **#LabCloudAWS** y etiqueta a la comunidad 🚀
 
