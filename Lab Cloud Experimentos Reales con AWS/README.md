@@ -52,10 +52,10 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
 ### 🟡 Nivel Intermedio
 
-- Automatiza Tareas con AWS Lambda + EventBridge  
+- **Automatiza Tareas con AWS Lambda + EventBridge**  
   🎯 Ejecuta funciones automáticamente ante eventos programados. 
 
-  🔗 [Video]()
+  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Automatiza%20Tareas%20con%20AWS%20Lambda%20%2B%20EventBridge)**
 
 - Accede a EC2 sin SSH usando SSM Session Manager 
   🎯 Conéctate a instancias sin usar claves ni abrir puertos.  
