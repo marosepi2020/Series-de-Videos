@@ -160,30 +160,36 @@ Deberías ver el mensaje:
 “Bienvenido a GreenBite 🌱 - Instancia lista para escalar”
 
 ### 9️⃣ (Opcional) Conéctate por SSH
-bash
+```bash
 Copiar
 Editar
 ssh -i GreenBite-Key.pem ec2-user@<IP-DE-LA-INSTANCE>
+```
 
 ### 🔟 Instalar stress (si no se hizo en el user-data)
-bash
+
+```bash
 Copiar
 Editar
 sudo yum install -y stress
+```
 
 ### 1️⃣1️⃣ Simular carga
 Desde la instancia conectada:
 
-bash
+```bash
 Copiar
 Editar
 stress --cpu 2 --timeout 300
+```
+
 O desde PowerShell en Windows:
 
 powershell
-Copiar
+```
 Editar
 1..500 | ForEach-Object { Start-Job { Invoke-WebRequest -Uri "http://<DNS-ALB>" -UseBasicParsing > $null } }
+```
 
 ### 1️⃣2️⃣ Validar escalado
 EC2 > Auto Scaling Groups > Monitoring
