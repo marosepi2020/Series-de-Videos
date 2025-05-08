@@ -62,10 +62,10 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
-- Auto Scaling Groups + ELB  
+- **Auto Scaling Groups + ELB**  
   🎯 Lanza y escala aplicaciones automáticamente.  
 
-  🔗 [Video]()
+  🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Lanza%20y%20escala%20Aplicaciones%20con%20Autoscaling%20y%20ALB)**
 
 - Almacena y Consulta Datos con Amazon DynamoDB 
   🎯 Crea una base de datos NoSQL y aprende a interactuar con ella.  

@@ -101,7 +101,9 @@ yum install -y httpd stress
 systemctl enable httpd
 systemctl start httpd
 echo "<h1>Bienvenido a GreenBite 🌱 - Instancia lista para escalar</h1>" > /var/www/html/index.html
-6️⃣ Crear el Application Load Balancer (ALB)
+```
+
+### 6️⃣ Crear el Application Load Balancer (ALB)
 EC2 > Load Balancers > Create Load Balancer
 
 Tipo: Application Load Balancer
@@ -128,7 +130,7 @@ Health Check: ruta /, código 200
 
 Asociar el Load Balancer con el Target Group
 
-7️⃣ Crear el Auto Scaling Group (ASG)
+### 7️⃣ Crear el Auto Scaling Group (ASG)
 EC2 > Auto Scaling Groups > Create Auto Scaling Group
 
 Nombre: ASG-GreenBite-App
@@ -151,23 +153,25 @@ CPU > 60% → Escala OUT
 
 CPU < 20% → Escala IN
 
-8️⃣ Validar el acceso al sitio
+### 8️⃣ Validar el acceso al sitio
 Abre http://<DNS-DEL-ALB> en tu navegador
 
 Deberías ver el mensaje:
 “Bienvenido a GreenBite 🌱 - Instancia lista para escalar”
 
-9️⃣ (Opcional) Conéctate por SSH
+### 9️⃣ (Opcional) Conéctate por SSH
 bash
 Copiar
 Editar
 ssh -i GreenBite-Key.pem ec2-user@<IP-DE-LA-INSTANCE>
-🔟 Instalar stress (si no se hizo en el user-data)
+
+### 🔟 Instalar stress (si no se hizo en el user-data)
 bash
 Copiar
 Editar
 sudo yum install -y stress
-1️⃣1️⃣ Simular carga
+
+### 1️⃣1️⃣ Simular carga
 Desde la instancia conectada:
 
 bash
@@ -180,14 +184,15 @@ powershell
 Copiar
 Editar
 1..500 | ForEach-Object { Start-Job { Invoke-WebRequest -Uri "http://<DNS-ALB>" -UseBasicParsing > $null } }
-1️⃣2️⃣ Validar escalado
+
+### 1️⃣2️⃣ Validar escalado
 EC2 > Auto Scaling Groups > Monitoring
 
 Verifica cómo el grupo escala al aumentar la CPU
 
 Las nuevas instancias también deberían servir el sitio web
 
-1️⃣3️⃣ Limpieza de recursos
+### 1️⃣3️⃣ Limpieza de recursos
 ✅ Para evitar costos:
 
 Eliminar el Auto Scaling Group
@@ -204,10 +209,10 @@ Eliminar la Key Pair si no la vas a reutilizar
 
 ## 📚 Recursos del laboratorio
 
-**1. Código Lambda inicial y actualizado**  
-**2. Código HTML del frontend**  
-**3. Video tutorial paso a paso (Parte 1, 2 y 3)**  
-**4. Archivos de ejemplo para pruebas con curl o Postman**
+**1. Código script servidor web para user data**  
+**2. Código HTML pagina web de prueba**  
+**3. Video tutorial paso a paso [Aquí](https://youtu.be/c6lNr1kXe_Y)**  
+**4. Comandos ejemplos para generar carga a instancia a través de stress y curl**
 
 ---
 
