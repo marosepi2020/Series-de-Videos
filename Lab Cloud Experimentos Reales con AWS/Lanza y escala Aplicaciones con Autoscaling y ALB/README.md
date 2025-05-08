@@ -161,16 +161,14 @@ Deberías ver el mensaje:
 
 ### 9️⃣ (Opcional) Conéctate por SSH
 ```bash
-Copiar
-Editar
+
 ssh -i GreenBite-Key.pem ec2-user@<IP-DE-LA-INSTANCE>
 ```
 
 ### 🔟 Instalar stress (si no se hizo en el user-data)
 
 ```bash
-Copiar
-Editar
+
 sudo yum install -y stress
 ```
 
@@ -178,8 +176,7 @@ sudo yum install -y stress
 Desde la instancia conectada:
 
 ```bash
-Copiar
-Editar
+
 stress --cpu 2 --timeout 300
 ```
 
@@ -187,7 +184,7 @@ O desde PowerShell en Windows:
 
 powershell
 ```
-Editar
+
 1..500 | ForEach-Object { Start-Job { Invoke-WebRequest -Uri "http://<DNS-ALB>" -UseBasicParsing > $null } }
 ```
 
