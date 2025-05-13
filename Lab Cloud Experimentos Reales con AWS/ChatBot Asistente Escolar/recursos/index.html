@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chatbot Escolar con Bedrock</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: auto;
+      padding: 2rem;
+    }
+    input, button {
+      font-size: 1rem;
+      padding: 0.5rem;
+      margin-top: 1rem;
+      width: 100%;
+    }
+    #respuesta {
+      margin-top: 2rem;
+      white-space: pre-wrap;
+      background: #f3f3f3;
+      padding: 1rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🤖 Chatbot Escolar</h1>
+  <p>Haz una pregunta para que el asistente educativo te responda:</p>
+
+  <input type="text" id="pregunta" placeholder="Ej: ¿Qué es la fotosíntesis?" />
+  <button onclick="consultarChatbot()">Enviar</button>
+
+  <div id="respuesta"></div>
+
+  <script>
+    async function consultarChatbot() {
+      const pregunta = document.getElementById("pregunta").value;
+      const respuestaDiv = document.getElementById("respuesta");
+      respuestaDiv.innerHTML = "⏳ Pensando...";
+
+      try {
+        const res = await fetch("https://rmjz9zc3r2.execute-api.us-east-1.amazonaws.com/chatbot", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ input: pregunta }),
+        });
+
+        const data = await res.json();
+        respuestaDiv.innerHTML = "💬 " + data.response;
+      } catch (error) {
+        respuestaDiv.innerHTML = "❌ Error: " + error.message;
+      }
+    }
+  </script>
+</body>
+</html>

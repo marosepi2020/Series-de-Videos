@@ -92,6 +92,11 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
+- **Crea un chatbot asistente escolar**  
+  🎯 Construir un chatbot escolar sin código utilizando Amazon Bedrock, el modelo Nova Micro, AWS Lambda y API Gateway.  
+
+  🔗 [Laboratorio](https://youtu.be/lZyouFmQClw)
+
 ---
 
 ### 🔴 Nivel Avanzado
