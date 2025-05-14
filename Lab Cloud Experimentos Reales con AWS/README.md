@@ -68,6 +68,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Lanza%20y%20escala%20Aplicaciones%20con%20Autoscaling%20y%20ALB)**
 
 - Almacena y Consulta Datos con Amazon DynamoDB 
+
   🎯 Crea una base de datos NoSQL y aprende a interactuar con ella.  
 
   🔗 [Video]()
@@ -102,16 +103,19 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 ### 🔴 Nivel Avanzado
 
 - Despliega Infraestructura como Código con CloudFormation
+
   🎯 Usa plantillas YAML para desplegar recursos automáticamente. 
 
   🔗 [Video]()
 
-- Configura una Red Privada con VPC, NAT Gateway y Subredes 
+- Configura una Red Privada con VPC, NAT Gateway y Subredes
+
   🎯 Diseña una red aislada y segura.  
 
   🔗 [Video]()
 
-- Orquesta Tareas Serverless con Step Functions + Lambda  
+- Orquesta Tareas Serverless con Step Functions + Lambda
+
   🎯 Crea flujos de trabajo coordinando múltiples funciones.  
 
   🔗 [Video]()
