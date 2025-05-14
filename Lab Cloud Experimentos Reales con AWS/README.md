@@ -29,6 +29,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Despliega%20Web%20estatica%20con%20S3/README.md)**
 
 - **[Crea un Servidor Web con Amazon EC2 y Apache/Nginx](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20servidor%20web%20con%20EC2%20y%20Apache)**
+
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20servidor%20web%20con%20EC2%20y%20Apache)**
@@ -57,7 +58,8 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Automatiza%20Tareas%20con%20AWS%20Lambda%20%2B%20EventBridge)**
 
-- Accede a EC2 sin SSH usando SSM Session Manager 
+- Accede a EC2 sin SSH usando SSM Session Manager
+
   🎯 Conéctate a instancias sin usar claves ni abrir puertos.  
 
   🔗 [Video]()
@@ -79,16 +81,19 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
 
 - Centraliza Logs y Monitorea con CloudWatch
+
   🎯 Habilita métricas, logs y alarmas.  
 
   🔗 [Video]()
 
 - Agrega Autenticación con Amazon Cognito 
+
   🎯 Integra un sistema de autenticación de usuarios.  
 
   🔗 [Video]()
 
-- Automatiza Backups con AWS Backup 
+- Automatiza Backups con AWS Backup
+ 
   🎯 Configura respaldos automáticos para EC2 y otros recursos.  
 
   🔗 [Video]()
