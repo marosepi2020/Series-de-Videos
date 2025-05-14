@@ -196,8 +196,11 @@ Respuesta esperada:
 
 ## 💡 Detalles importantes
 ✅ Usa el Alias ID alfanumérico, no el nombre "DRAFT"
+
 ✅ El agente debe estar en estado Prepared
+
 ✅ El parámetro User Input debe estar habilitado para evitar errores de acceso
+
 ✅ Las variables de entorno en Lambda deben contener AGENT_ID y AGENT_ALIAS_ID
 
 ---
