@@ -153,6 +153,7 @@ def lambda_handler(event, context):
             "body": json.dumps({"error": str(e)})
         }
 ```
+---
 
 3️⃣ Crear HTTP API en API Gateway
 
@@ -174,6 +175,8 @@ def lambda_handler(event, context):
 
 **Recordar siempre que hagas cambios en el API hacer Deploy en el stage que estas trabajando.**
 
+---
+
 ## 🧪 Prueba rápida con curl
 
 ```bash
@@ -189,6 +192,7 @@ Respuesta esperada:
   "response": "La fotosíntesis es un proceso mediante el cual las plantas convierten la luz solar en energía..."
 }
 ```
+---
 
 ## 💡 Detalles importantes
 ✅ Usa el Alias ID alfanumérico, no el nombre "DRAFT"
@@ -196,14 +200,14 @@ Respuesta esperada:
 ✅ El parámetro User Input debe estar habilitado para evitar errores de acceso
 ✅ Las variables de entorno en Lambda deben contener AGENT_ID y AGENT_ALIAS_ID
 
+---
+
 ## 🌐 Prueba en navegador
 
 Ejecuta:
 
 ```bash
-Copiar
-Editar
-python3 -m http.server
+   python3 -m http.server
 ```
 
 Abre en navegador:
@@ -213,15 +217,19 @@ http://localhost:8000/index.html
 
 📦 El HTML ya está preparado con diseño infantil y listo para producción. Solo cambia tu URL de API en el script.
 
+---
+
 ## 🖼️ Recursos
 
-📄 Guía paso a paso del laboratorio
+📄 [Guía paso a paso del laboratorio](https://youtu.be/lZyouFmQClw)
 
 🧠 Imagen de arquitectura
 
 🧑‍🏫 Frontend HTML educativo [aquí](./recursos/index.html)
 
 🔁 Código completo de Lambda (Python)
+
+---
 
 ## 📢 Conecta con la comunidad
 
@@ -232,9 +240,13 @@ http://localhost:8000/index.html
 - **MeetUp:** [AWS Cartagena Community](https://www.meetup.com/es-ES/aws-colombia-cartagena/)  
 - **Facebook:** [AWS Cartagena](https://www.facebook.com/awscolombiacartagena)
 
+🎉 **¡Felicidades! Has creado tu primer chatbot educativo sin servidores usando Amazon Bedrock y Modelos Amazon Nova.**
+
+---
+
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-🎉 ¡Felicidades! Has creado tu primer chatbot educativo sin servidores usando Amazon Bedrock y Modelos Amazon Nova.
+
 
