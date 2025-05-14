@@ -23,12 +23,12 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
 ### 🟢 Nivel Básico
 
-- **Despliega Tu Primera Web Estática con Amazon S3**  
+- **[Despliega Tu Primera Web Estática con Amazon S3](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Despliega%20Web%20estatica%20con%20S3)**  
   🎯 Aprende a almacenar y servir archivos estáticos desde un bucket. 
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Despliega%20Web%20estatica%20con%20S3/README.md)**
 
-- **Crea un Servidor Web con Amazon EC2 y Apache/Nginx**
+- **[Crea un Servidor Web con Amazon EC2 y Apache/Nginx](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20servidor%20web%20con%20EC2%20y%20Apache)**
   🎯 Lanza una instancia, conéctate vía SSH e instala un servidor web.  
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20servidor%20web%20con%20EC2%20y%20Apache)**
@@ -52,7 +52,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
 ### 🟡 Nivel Intermedio
 
-- **Automatiza Tareas con AWS Lambda + EventBridge**  
+- **[Automatiza Tareas con AWS Lambda + EventBridge](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Automatiza%20Tareas%20con%20AWS%20Lambda%20%2B%20EventBridge)**  
   🎯 Ejecuta funciones automáticamente ante eventos programados. 
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Automatiza%20Tareas%20con%20AWS%20Lambda%20%2B%20EventBridge)**
@@ -62,7 +62,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
-- **Auto Scaling Groups + ELB**  
+- **[Auto Scaling Groups + ELB](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Lanza%20y%20escala%20Aplicaciones%20con%20Autoscaling%20y%20ALB)**  
   🎯 Lanza y escala aplicaciones automáticamente.  
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Lanza%20y%20escala%20Aplicaciones%20con%20Autoscaling%20y%20ALB)**
@@ -72,7 +72,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
-- **Crea un API RESTful sin servidores (API Gateway + Lambda)**  
+- **[Crea un API RESTful sin servidores (API Gateway + Lambda)](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful)**  
   🎯 Diseña una API completamente serverless.  
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
@@ -92,7 +92,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 [Video]()
 
-- **Crea un chatbot asistente escolar**  
+- **[Crea un chatbot asistente escolar](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/ChatBot%20Asistente%20Escolar)**  
   🎯 Construir un chatbot escolar sin código utilizando Amazon Bedrock, el modelo Nova Micro, AWS Lambda y API Gateway.  
 
   🔗 [Laboratorio](https://youtu.be/lZyouFmQClw)
