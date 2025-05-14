@@ -10,11 +10,9 @@ En este laboratorio práctico construirás un chatbot educativo utilizando **Ama
 
 Desplegar un chatbot sin servidores que responda a consultas escolares, usando agentes de Amazon Bedrock y exponerlo mediante una API pública accesible desde navegador.
 
----
-
-## 🧠 Nivel sugerido
-
-Intermedio – Requiere conocimientos básicos de AWS, Lambda, IAM y conceptos de APIs REST.
+🧠 **Nivel:** Intermedio  
+⏱️ **Duración estimada:** 90 minutos  
+💰 **Costo:** Bajo (menos de $1 por miles de consultas fuera del Free Tier)
 
 ---
 
