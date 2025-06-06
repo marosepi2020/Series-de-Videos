@@ -80,7 +80,7 @@ Ideal para estudiantes, profesionales y entusiastas que quieren pasar de la teor
 
   🔗 **[Laboratorio](https://github.com/marosepi2020/Series-de-Videos/blob/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Crea%20un%20API%20RESTful/README.md)**
 
-- **Diagnostica y remedia una instancia EC2 a tráves del System Manager**
+- **[Diagnostica y remedia una instancia EC2 a tráves del System Manager](https://github.com/marosepi2020/Series-de-Videos/tree/main/Lab%20Cloud%20Experimentos%20Reales%20con%20AWS/Diagnostico%20de%20Instancias%20EC2%20con%20AWS%20Systems%20Manager)**
 
   🎯 Diagnostica y remedia con System Manager.  
 
