@@ -1,7 +1,7 @@
 
 # 🩺 Diagnóstico de Instancias EC2 con AWS Systems Manager
 
-!\[diagnostico_ssm\]()
+![diagnostico_ssm](./imagenes/diagnostico_con_system_manager.png)
 
 Este laboratorio contiene el paso a paso para diagnosticar una instancia EC2 de forma segura y sin conexión SSH, utilizando AWS Systems Manager. Se emplean herramientas como \*\*Session Manager\*\*, \*\*Run Command\*\* e \*\*Inventory\*\* para revisar el estado del sistema, ejecutar comandos remotos y obtener información clave para mantenimiento.
 
@@ -270,33 +270,3 @@ dmesg | tail \-n 10
 Este laboratorio está bajo la licencia MIT. Revisa los detalles en el archivo [LICENSE](https://chatgpt.com/g/g-p-67d067a3a54c8191ad3f63470531cc2b-challenge-aws-certified-sysops-administrator/c/LICENSE).
 
 ---
-
-\---
-
-¿Quieres que te cree también los recursos visuales mencionados (diagrama \`ssm\_ec2\_diagnostico.png\` y portada) para integrarlos al repositorio, o que lo empaquemos en un ZIP listo para subir?
-
-\#\!/bin/bash  
-\# Actualiza la lista de paquetes  
-apt-get update \-y
-
-\# Instala dependencias (por si no están)  
-apt-get install \-y wget
-
-\# Descarga el agente desde el bucket oficial de AWS (región us-east-1)  
-wget https://s3.amazonaws.com/amazon-ssm-us-east-1/latest/debian\_amd64/amazon-ssm-agent.deb
-
-\# Instala el paquete  
-dpkg \-i amazon-ssm-agent.deb
-
-\# Habilita e inicia el servicio  
-systemctl enable amazon-ssm-agent  
-systemctl start amazon-ssm-agent
-
-715841349748 deno creacion cuenta — correo sasosesu2023 clave la misma   
-[info@cloudopsguild.com](mailto:info@cloudopsguild.com)
-
-## mr.serrano@marosepiinthecloud.com.co
-
-[https://762233766739.signin.aws.amazon.com/console](https://762233766739.signin.aws.amazon.com/console)  
-762233766739
-
