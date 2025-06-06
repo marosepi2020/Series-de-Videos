@@ -245,6 +245,8 @@ dmesg | tail \-n 10
 
 * [IAM Roles para EC2](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2.html)
 
+* [Video paso a paso](https://youtu.be/mnC5K92eWsU)
+
 ---
 
 ## **✅ Red de la Comunidad CloudOps Guild**
